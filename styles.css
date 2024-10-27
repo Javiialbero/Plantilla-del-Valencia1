@@ -1,0 +1,8 @@
+h1.titul{
+    color: orange;
+    background-color: black;
+    text-align: center;
+}
+div.imagenes{
+    display: grid
+}
