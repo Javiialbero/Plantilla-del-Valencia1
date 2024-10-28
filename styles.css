@@ -6,3 +6,7 @@ h1.titul{
 div.imagenes{
     display: grid
 }
+p.webs{
+    text-align: center;
+background-color: orange;
+}
